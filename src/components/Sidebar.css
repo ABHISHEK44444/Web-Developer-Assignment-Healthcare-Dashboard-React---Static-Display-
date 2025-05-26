@@ -1,0 +1,20 @@
+
+.sidebar {
+  width: 240px;
+  background: #eef2f7;
+  min-height: 100vh;
+  border-radius: 1.25rem 0 0 1.25rem;
+}
+
+.sidebar .nav-link {
+  color: #5b6b8c;
+  cursor: default;
+}
+
+.sidebar .nav-link:hover {
+  color: #0d6efd;
+}
+
+.brand {
+  letter-spacing: -0.5px;
+}

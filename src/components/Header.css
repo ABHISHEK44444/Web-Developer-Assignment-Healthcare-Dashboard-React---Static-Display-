@@ -1,0 +1,9 @@
+
+.search-input {
+  background: #f3f6fb;
+  border: none;
+  border-radius: 0.5rem;
+}
+.search-input:focus {
+  box-shadow: none;
+}
