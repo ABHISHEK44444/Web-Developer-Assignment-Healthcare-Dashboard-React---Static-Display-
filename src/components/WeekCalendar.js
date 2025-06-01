@@ -29,7 +29,7 @@ export default function WeekCalendar() {
       <div className="card border-0 shadow-sm mb-4" style={{ borderRadius: "1rem" }}>
         <div className="card-body">
           <div className="d-flex justify-content-between align-items-center mb-3">
-            <h6 className="mb-0">October 2025</h6>
+            <h6 className="mb-0">May 2025</h6>
             <div className="d-flex gap-2">
               <button className="btn btn-sm btn-light rounded-circle p-1">
                 <FaChevronLeft size={12} />
